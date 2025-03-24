@@ -17,5 +17,8 @@ This project leverages Gemma-3 vision capabilities and Streamlit to create a 100
    ```bash
    pip install streamlit ollama pillow
    ```
+## Sample Output
+
+![image](https://github.com/user-attachments/assets/321cf877-40ff-48a6-abb0-120a0623ed04)
 
 ---
